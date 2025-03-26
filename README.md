@@ -20,9 +20,9 @@ I've studied with the 42 Network,learning on a project-to-project basis.
 
 ## ⚡ Projects & Highlights
 
-### 🚗 ESP32 CAN Bus Vehicle Diagnostics *(2025 – Present)*
+### 🚗 ESP32 CANbus interpreter for vehicles *(2024 – Present)*
    !repo in the making! 
-- Developed a real-time vehicle diagnostic system using ESP32.
+- Developing a real-time vehicle parameter interpretation system using ESP32.
 - Interprets CAN messages (ISO 11898) and displays live telemetry on a custom readout interface.
 - Designed for modularity and easy integration into custom dashboards.
 
