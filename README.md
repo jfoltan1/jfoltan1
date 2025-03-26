@@ -35,7 +35,8 @@ I've studied with the 42 Network,learning on a project-to-project basis.
 - Used Bresenham’s algorithm to project 2D height maps into interactive 3D models.
 - Optimized for real-time rendering and large data sets using matrix math and pointer-level optimizations.
 
-###	And many more! Check my repos 😉 
+### 🔗 [And many more! Check my repos 😉](https://github.com/jfoltan1?tab=repositories)
+
 ---
 
 ## 👔 Experience Snapshot
